@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Nutricion y Vida Activa]]></title>
         <description><![CDATA[Nutricion y Vida Activa]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/nutricion-y-vida-activa/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 20 Feb 2016 17:02:42 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 20 Feb 2016 17:10:08 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/nutricion-y-vida-activa/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[Mediante una buena nutrición, se inspira a una comunidad | #YoSoyHerbalifehttps://youtu.be/1hiJaBdyUXw]]></title>
-            <description><![CDATA[<h1>Mediante una buena nutrición, se inspira a una comunidad | #YoSoyHerbalifehttps://youtu.be/1hiJaBdyUXw</h1>]]></description>
-            <link>undefinedmediante-una-buena-nutricion-se-inspira-a-una-comunidad-or/index.html</link>
+            <title><![CDATA[Mediante una buena nutrición, se inspira a una comunidad | #YoSoyHerbalife]]></title>
+            <description><![CDATA[<h1>Mediante una buena nutrición, se inspira a una comunidad | #YoSoyHerbalife</h1>]]></description>
+            <link>https://thegrid.ai/nutricion-y-vida-activa/mediante-una-buena-nutricion-se-inspira-a-una-comunidad-or/index.html</link>
             <guid isPermaLink="false">eacb64ce-03e2-4d2f-9fbc-5d271dfbdbbe</guid>
-            <pubDate>Sat, 20 Feb 2016 17:01:57 GMT</pubDate>
+            <pubDate>Sat, 20 Feb 2016 17:09:59 GMT</pubDate>
         </item>
     </channel>
 </rss>
