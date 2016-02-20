@@ -1,0 +1,28 @@
+name: Nutricion y Vida Activa
+favicon: null
+layout_spectrum: 0.0062956311739981174
+typography_spectrum: 0.9718631191644818
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.8505651892628521
+  lightness: 0.4701564807910472
+  saturation: 0.35770510556176305
+  rhythmicContrast: 0.3198427213355899
+purpose: []
